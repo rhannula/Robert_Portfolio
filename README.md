@@ -25,7 +25,7 @@ To create the necessary data model for doing analysis and fulfilling the busines
 
 *Below are the SQL statements for cleansing and transforming the necessary set of data that was later transited to Power BI.*
 
-*You can see all the SQL queries [HERE](www.google.com)*
+*You can see all the SQL queries [HERE](https://github.com/rhannula/Robert_Portfolio/tree/main/SQL)*
 
 
 ## Data Model
