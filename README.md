@@ -12,7 +12,7 @@ The business request for this data analyst project was an executive sales report
 
 Access to the GitHub repository [HERE](https://github.com/rhannula/Sales_Report)
 
-![ALT](https://github.com/rhannula/Sales_Report/blob/main/Images/Screenshot%202022-03-28%20211149.png)
+![ALT](https://raw.githubusercontent.com/rhannula/Sales_Report/main/Images/Screenshot%202022-03-28%20211149.png)
 
 
 # [Project 2: Category Management Analysis](https://rhannula.github.io/Category_Management_Analysis/)
