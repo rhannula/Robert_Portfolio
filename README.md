@@ -12,7 +12,7 @@ The business request for this data analyst project was an executive sales report
 
 Access to the GitHub repository [HERE](https://github.com/rhannula/Sales_Report)
 
-![ALT](https://raw.githubusercontent.com/rhannula/Sales_Report/main/Images/Screenshot%202022-03-28%20211149.png)
+[![ALT](https://raw.githubusercontent.com/rhannula/Sales_Report/main/Images/Screenshot%202022-03-28%20211149.png)](https://app.powerbi.com/groups/me/reports/e38d527a-d260-4079-b7fd-8f305c4e03c3/ReportSection)
 
 
 # [Project 2: Category Management Analysis](https://rhannula.github.io/Category_Management_Analysis/)
@@ -26,6 +26,6 @@ The business request for this data analyst project was an executive analysis of 
 
 Access to the GitHub repository [HERE](https://github.com/rhannula/Category_Management_Analysis)
 
-![](https://raw.githubusercontent.com/rhannula/Category_Management_Analysis/main/Images/Screenshot%202022-03-28%20211447.png)
+[![](https://raw.githubusercontent.com/rhannula/Category_Management_Analysis/main/Images/Screenshot%202022-03-28%20211447.png)](https://app.powerbi.com/groups/me/reports/9f93414f-4263-42a8-b19c-0f97bf773d08/ReportSection190a24d7dc419bc94d23)
 
 
