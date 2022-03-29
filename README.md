@@ -24,7 +24,6 @@ The business request for this data analyst project was an executive analysis of 
 
 Access to the project [HERE](https://github.com/rhannula/Category_Management_Analysis)
 
-![](https://github.com/rhannula/Category_Management_Analysis/blob/main/Images/Screenshot%202022-03-28%20211447.png)
-
+![](https://github.com/rhannula/Category_Management_Analysis/blob/main/Images/Screenshot%202022-03-28%20211447.png) ![](https://github.com/rhannula/Category_Management_Analysis/blob/main/Images/Screenshot%202022-03-29%20031518.png)
 
 
