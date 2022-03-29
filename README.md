@@ -1,7 +1,7 @@
 # Robert_Portfolio
 This portfolio showcases my initial understanding and interest in data science and analysis and different tools used throughout projects.
 
-# Project 1: Sales Report Overview
+# [Project 1: Sales Report Overview](https://rhannula.github.io/Sales_Report/)
 
 ## Overview
 
@@ -10,12 +10,12 @@ The business request for this data analyst project was an executive sales report
   - SQL Server
   - Microsoft Power BI
 
-Access to the project [HERE](https://github.com/rhannula/Sales_Report)
+Access to the GitHub repository [HERE](https://github.com/rhannula/Sales_Report)
 
 ![](https://github.com/rhannula/Sales_Report/blob/main/Images/Screenshot%202022-03-28%20211149.png)
 
 
-# Project 2: Category Management Analysis
+# [Project 2: Category Management Analysis](https://rhannula.github.io/Category_Management_Analysis/)
 
 ## Overview:
 
@@ -24,7 +24,7 @@ The business request for this data analyst project was an executive analysis of 
   - Microsoft Excel
   - Power BI
 
-Access to the project [HERE](https://github.com/rhannula/Category_Management_Analysis)
+Access to the GitHub repository [HERE](https://github.com/rhannula/Category_Management_Analysis)
 
 ![](https://github.com/rhannula/Category_Management_Analysis/blob/main/Images/Screenshot%202022-03-28%20211447.png)
 
