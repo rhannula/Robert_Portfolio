@@ -22,7 +22,9 @@ The business request for this data analyst project was an executive analysis of 
   - Microsoft Excel
   - Power BI
 
-Access to the project [HERE](https://github.com/rhannula/Sales_Report)
+Access to the project [HERE](https://github.com/rhannula/Category_Management_Analysis)
+
+![](https://github.com/rhannula/Category_Management_Analysis/blob/main/Images/Screenshot%202022-03-28%20211447.png)
 
 
 
