@@ -42,4 +42,4 @@ Tools used in this project:
 
 Access to the GitHub repository [HERE](https://github.com/rhannula/Bank_Loan_Analysis)
 
-[![](https://github.com/rhannula/Bank_Loan_Analysis/blob/2be79e6e32ed39c4f87472f09e86660c9dcbdcb8/Pictures/Screenshot%202022-11-09%20at%2016.33.38.png)](https://github.com/rhannula/Bank_Loan_Analysis/blob/main/Code/Bank%20Loan%20Analysis.ipynb)
+[![](https://raw.githubusercontent.com/rhannula/Loan_Analysis/main/Pictures/Screenshot%202022-11-09%20at%2016.33.38.png)](https://github.com/rhannula/Bank_Loan_Analysis/blob/main/Code/Bank%20Loan%20Analysis.ipynb)
