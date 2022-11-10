@@ -30,7 +30,7 @@ Access to the GitHub repository [HERE](https://github.com/rhannula/Category_Mana
 
 
 ---
-# [Project 3: Bank Lending Analysis](https://github.com/rhannula/Bank_Loan_Analysis)
+# [Project 3: Bank Lending Analysis](https://rhannula.github.io/Loan_Analysis)
 
 ## Overview:
 
